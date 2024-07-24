@@ -32,6 +32,6 @@ The goal in this notebook is to use AWS SageMaker to predict an error state for 
 3. Open and work through the exploratory data analysis notebook in
 4. Open and work through the notebook about using AWS SageMaker to build an XGBoost model and deploy it to an endpoint
 
-- The notebook is located in `/sagemaker_xgboost_notebook/`
+5. The notebook is located in `/sagemaker_xgboost_notebook/`
 
 6. Follow the details in the blogpost and use the content in `/sagemaker_pipeline/` to build an MLOps pipeline with AWS SageMaker
